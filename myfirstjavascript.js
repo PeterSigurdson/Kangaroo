@@ -1,9 +1,9 @@
 function add10numbers(){
-    i=0;
+    
     sum=0;
-    for(;i<=9;i++)
+    for(i = 445 ;i<=116; i -=34)
     {
-        sum+=i;
+        sum += i;
     }
     return sum;
 }
